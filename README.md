@@ -10,5 +10,3 @@ features such as age, income, the age of their current phone, and a target varia
 2. Run the analysis:
    ```bash
    python purchase_analysis.py
-
-
